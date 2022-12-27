@@ -1,0 +1,17 @@
+.todo-footer {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+
+.todo-footer p {
+    font-weight: 600;
+    font-size: 20px;
+    color: rgb(10, 9, 9)
+}
+
+.todo-footer a {
+    font-weight: 600;
+    color: grey;
+    text-decoration: none;
+}

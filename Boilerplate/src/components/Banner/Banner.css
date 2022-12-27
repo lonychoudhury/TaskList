@@ -1,0 +1,10 @@
+.banner {
+    height: 35vh;
+    background-image:  linear-gradient(to right, rgba(54, 214, 62, 0.794), rgba(40, 134, 56, 0.794), rgba(169, 238, 80, 0.794)),url("https://media.istockphoto.com/id/1040425512/photo/white-paper-background.jpg?b=1&s=170667a&w=0&k=20&c=Pro5y4ZMKU_M9ZQVh9Qw2_Cmfn6QUfkbm6noJaVgCkQ=");
+    background-position: center;
+}
+
+.banner-img {
+    height: 100%;
+    width: 100%;
+}
